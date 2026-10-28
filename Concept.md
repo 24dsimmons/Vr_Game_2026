@@ -17,4 +17,4 @@
 **Game Design:**
 Players be immersed with different Iron man Gauntlets and change the properties of each one.
 
-![Space Station](https://static.wikia.nocookie.net/creepypasta-files/images/3/3c/Happy_playground.png/revision/latest?cb=20210106140217)
+![Space Station]([https://s1.dmcdn.net/v/SP7ow1gpnCdQMsllB/x1080])
