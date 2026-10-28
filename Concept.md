@@ -1,6 +1,6 @@
-# Happy Appy VR
+# Iron Man Test Fit Simulator
 
-**Genre:** Vr Horror
+**Genre:** Simulation 
 
 **Platform:** Meta Quest
 
@@ -8,19 +8,13 @@
 
 **Target Audience** 12+
 
-**Description:** A Vr horror game based on the creepy pasta of happy appy. 
-Inspired by one of my favorite horror podcasts I would like to make a FNAF inspired VR game centered around Happy Appy.
-In the game you have to protect the children from the hands of Happy Appy. You will collect VHS tapes and solve puzzles to 
-help the children get out of this VHS era of entertainment they are trapped in. 
+**Description:** A Vr immersion game where you get to try on different Iron Man Gauntlets utilizing Meta's hand tracking and passthrough 
 
 **Players Will:**
-- interact with levers, 
-- characters, 
-- buttons, 
-- pulleys 
-- weapons and more
+- interact with different models
+- Switch from An actual model with color to a wire-frame styled view.
 
 **Game Design:**
-Players will solve puzzles and complete objectives while trying to escape the vicious Happy Appy.
+Players be immersed with different Iron man Gauntlets and change the properties of each one.
 
 ![Space Station](https://static.wikia.nocookie.net/creepypasta-files/images/3/3c/Happy_playground.png/revision/latest?cb=20210106140217)
